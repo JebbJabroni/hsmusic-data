@@ -15,7 +15,7 @@ Track Art File Extension: png
 Color: '#01DD00'
 Groups:
 - Fandom
-Commentary:
+Commentary: |-
     <i>Maukustus:</i> (original album art)
     <img src="media/misc/homestuck-anniversary-excl-act-6.jpg" width="300">
 ---
@@ -58,12 +58,13 @@ Referenced Tracks:
 - Skaian Summoning
 Sampled Tracks:
 - Amen, Brother
-Commentary:
+Commentary: |-
     <i>Maukustus:</i> (original track art)
     <img src="media/misc/06-12-10-12th-bilunar-perigee-of-the-6th-dark-seasons-equinox.jpg" width="300">
 
     <i>Maukustus:</i> (alternate track art)
     <img src="media/misc/hivebent_human.png" width="300">
+
 ---
 Track: Artifact of Confection 
 Duration: '2:03'
@@ -80,6 +81,6 @@ URLs:
 - https://maukustus.bandcamp.com/track/wriggling-day
 Referenced Tracks:
 - track:theme
-Commentary:
+Commentary: |-
     <i>Maukustus:</i> (alternate track art)
     <img src="media/misc/hivebent_human.png" width="300">
