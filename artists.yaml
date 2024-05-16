@@ -553,6 +553,12 @@ Dead URLs:
 - https://audreyhershenson.netlify.app/  # professional homepage
 - https://steamcommunity.com/id/audreys_trick  # linked from homepage above
 ---
+Artist: animmania
+Aliases:
+- ed
+URLs:
+- https://twitter.com/Animeshowfan
+---
 Artist: animorphs
 URLs:
 - https://youtube.com/@animorphs
@@ -1976,6 +1982,10 @@ URLs:
 - https://www.poetryfoundation.org/poets/christina-rossetti
 ---
 Artist: Christopher Tyng
+---
+Artist: Chromaphasia
+URLs:
+- https://www.youtube.com/@chromaphasia453
 ---
 Artist: Chrono Trigger
 ---
@@ -5612,6 +5622,15 @@ URLs:
 - https://mu2tardblood2.tumblr.com/
 - https://twitter.com/kieranmira
 ---
+Artist: KiddleScribbles
+Aliases:
+- KillJoy
+URLs:
+- https://soundcloud.com/kiddlescribbles
+- https://www.youtube.com/@KiddleScribbles
+- https://twitter.com/KiddleScribbles
+- https://kiddlescribbles.newgrounds.com/
+---
 Artist: Kid Icarus
 ---
 Artist: kikischeese
@@ -6723,6 +6742,16 @@ Aliases:
 - M.C. Hammer
 - Stanley Kirk Burrell
 ---
+Artist: meadowsofmoo
+Aliases:
+- SpaceKat
+URLs:
+- https://www.youtube.com/@meadowsofmoo
+- https://twitter.com/realSpaceKat
+Dead URLs:
+- https://www.youtube.com/@SpaceKat8352/videos  # unused since 2021
+- https://soundcloud.com/user-206734841-954082968  # unused since 2020
+---
 Artist: meems
 ---
 Artist: Mega Man
@@ -6782,6 +6811,10 @@ URLs:
 - https://melomane.bandcamp.com/album/solresol
 ---
 Artist: Mémoire
+---
+Artist: Mephi
+Dead URLs:
+- https://www.instagram.com/mephimi/
 ---
 Artist: Mercy Rose
 Dead URLs:
@@ -9771,16 +9804,6 @@ URLs:
 - https://www.tumblr.com/spruiksart
 - https://www.tumblr.com/spruspam
 - https://twitter.com/spruikoh
----
-Artist: meadowsofmoo
-Aliases:
-- SpaceKat
-URLs:
-- https://www.youtube.com/@meadowsofmoo
-- https://twitter.com/realSpaceKat
-Dead URLs:
-- https://www.youtube.com/@SpaceKat8352/videos  # unused since 2021
-- https://soundcloud.com/user-206734841-954082968  # unused since 2020
 ---
 Artist: SpaceWaifu
 Aliases:
